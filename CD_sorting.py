@@ -1,9 +1,3 @@
-# Tatu Matias Tuominen
-# Student ID: 27475026
-# FIT1045, Assignment 2, Task 2
-# Sort algorithms are implemented from selection sorts in FIT1045 lecture slides
-
-
 # returns list with records in list
 # returns list, with each index representing title, artist, genre and price
 # for loop runs through each line in given file and parses it to separate different elements
