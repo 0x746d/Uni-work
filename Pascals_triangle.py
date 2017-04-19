@@ -1,6 +1,6 @@
-# Tatu Matias Tuominen
-# Student ID: 27475026
-# FIT1045, Assignment 2, Task 1
+# takes number of rows as input
+# generates Pascal's triangle up to input number of rows
+# Generates triangle using recursion
 
 # validates that user input is a non-negative integer
 def checkInput():
